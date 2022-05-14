@@ -1,16 +1,18 @@
 ### Hello 👋, I am Thierry!
 
-    - 🎓 I'm graduated in Real Estate Business Technology
+<p>
     
-    - 🚀 I’m currently studying on Trybe
+   - 🎓 I'm graduated in Real Estate Business Technology 
     
-    - 📝 I’m currently learning about HTML, CSS and JavaScript
+   - 🚀 I’m currently studying on Trybe
     
-    - 💻 I’m looking for an opportunity as a junior developer
+   - 📝 I’m currently learning about HTML, CSS and JavaScript
     
-    - 💡 Curiosity: I like reading, sports and gaming
+   - 💻 I’m looking for an opportunity as a junior developer
+    
+   - 💡 Curiosity: I like reading, sports and gaming
 
-
+</p>
 <!--
 **thierrydrmv/thierrydrmv** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
