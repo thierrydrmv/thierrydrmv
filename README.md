@@ -8,7 +8,7 @@
     
    - 📝 I’m currently learning about HTML, CSS and JavaScript
     
-   - 💻 I’m working at GSO as a developer assistant
+   - 💻 I’m working at SGI as a developer assistant
     
    - 💡 Curiosity: I like reading, sports and gaming
 
