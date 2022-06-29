@@ -8,7 +8,7 @@
     
    - 📝 I’m currently learning about HTML, CSS and JavaScript
     
-   - 💻 I’m looking for an opportunity as a junior developer
+   - 💻 I’m working at GSO as a developer assistant
     
    - 💡 Curiosity: I like reading, sports and gaming
 
