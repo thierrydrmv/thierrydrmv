@@ -6,7 +6,7 @@
     
    - 🚀 I’m currently studying on Trybe
     
-   - 📝 I’m currently learning about HTML, CSS and JavaScript
+   - 📝 I’m currently learning about HTML, CSS, JavaScript and C#
     
    - 💻 I’m working at SGI as a developer assistant
     
