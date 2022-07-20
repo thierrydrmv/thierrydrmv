@@ -6,9 +6,7 @@
     
    - 🚀 I’m currently studying on Trybe
     
-   - 📝 I’m currently learning about HTML, CSS, JavaScript and C#
-    
-   - 💻 I’m working at GSO as a developer assistant
+   - 📝 I’m currently learning about HTML, CSS and JavaScript.
     
    - 💡 Curiosity: I like reading, sports and gaming
 
