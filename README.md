@@ -1,27 +1,25 @@
-### Hello 👋, I am Thierry!
+<h1 align="center">Hello 👋, I am Thierry!</h1>
+<br>
 
-<p>
+   🎓 I'm graduated in Real Estate Business Technology 
     
-   - 🎓 I'm graduated in Real Estate Business Technology 
+   🚀 I’m currently studying on Trybe
     
-   - 🚀 I’m currently studying on Trybe
+   📝 I’m currently learning about HTML, CSS and JavaScript.
     
-   - 📝 I’m currently learning about HTML, CSS and JavaScript.
-    
-   - 💡 Curiosity: I like reading, sports and gaming
+   💡 Curiosity: I like reading, sports and gaming
 
-</p>
-<!--
-**thierrydrmv/thierrydrmv** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<br>
+<h2 align="center">Familiar with</h2>
 
-Here are some ideas to get you started:
+<div align="center">
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+  [![My Skills](https://skillicons.dev/icons?i=html,css,js,react,nodejs,jest,git,figma,vscode)](https://skillicons.dev)
+  
+</div> 
+<br>
+
+<div align="center">
+<img height="170px" src="https://github-readme-stats.vercel.app/api?username=thierrydrmv&show_icons=true&theme=highcontrast">
+<img height="170px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=thierrydrmv&layout=compact&theme=highcontrast">
+</div>
