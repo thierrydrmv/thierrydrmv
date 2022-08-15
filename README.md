@@ -1,7 +1,7 @@
 <h1 align="center">Hello <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px" height="30px">, I am Thierry!</h1>
 <br>
 
-<img align = "right" width = "450px"  src = "https://user-images.githubusercontent.com/63623847/184710686-f6ab32a6-f668-4916-bb67-9e8514df993f.gif">
+<img align = "right" width = "420px"  src = "https://user-images.githubusercontent.com/63623847/184710686-f6ab32a6-f668-4916-bb67-9e8514df993f.gif">
   <h2>😀 About Me:</h2>
     <br>
 
@@ -15,7 +15,6 @@
    
    💬 You can always ask me about Business, RPG or Cthulhu🐙
 
-<br>
 <br>
 <br>
 <h2 align="center">🛠️ Technologies and Tools I use:</h2>
