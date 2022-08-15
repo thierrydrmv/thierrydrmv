@@ -10,7 +10,7 @@
    💡 Curiosity: I like reading, sports and gaming
 
 <br>
-<h2 align="center">Familiar with</h2>
+<h2 align="center">Technologies:</h2>
 
 <div align="center">
 
