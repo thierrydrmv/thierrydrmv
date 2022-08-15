@@ -1,4 +1,4 @@
-<h1 align="center">Hello 👋, I am Thierry!</h1>
+<h1 align="center">Hello <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px" height="30px">, I am Thierry!</h1>
 <br>
 
    🎓 I'm graduated in Real Estate Business Technology 
@@ -20,6 +20,13 @@
 <br>
 
 <div align="center">
-<img height="160px" src="https://github-readme-stats.vercel.app/api?username=thierrydrmv&show_icons=true&theme=highcontrast">
-<img height="160px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=thierrydrmv&layout=compact&theme=highcontrast">
+  <img height="160px" src="https://github-readme-stats.vercel.app/api?username=thierrydrmv&show_icons=true&theme=highcontrast">
+  <img height="160px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=thierrydrmv&layout=compact&theme=highcontrast">
+</div>
+
+<br>
+
+<div align="center">
+  <a href = "mailto:varelathierry@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+  <a href="https://www.linkedin.com/in/varela-thierry" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white"
 </div>
