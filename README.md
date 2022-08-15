@@ -29,6 +29,7 @@
 <br>
 
 <div align="center">
+  <a href="https://github.com/thierrydrmv">
   <img height="160px" src="https://github-readme-stats.vercel.app/api?username=thierrydrmv&show_icons=true&theme=highcontrast">
   <img height="160px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=thierrydrmv&layout=compact&theme=highcontrast">
 </div>
