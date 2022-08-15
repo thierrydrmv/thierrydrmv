@@ -19,10 +19,12 @@
 <br>
 <br>
 <h2 align="center">🛠️ Technologies and Tools I use:</h2>
+<br>
 
 <div align="center">
 
   [![My Skills](https://skillicons.dev/icons?i=html,css,js,react,nodejs,jest,git,figma,vscode,linux)](https://skillicons.dev)
+    <br>
   
 </div> 
 <br>
