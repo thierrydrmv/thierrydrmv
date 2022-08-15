@@ -8,6 +8,8 @@
    📝 I’m currently learning about HTML, CSS and JavaScript.
     
    💡 Curiosity: I like reading, sports and gaming
+   
+   💬 You can always ask me about Business, RPG or Cthulhu🐙
 
 <br>
 <h2 align="center">🛠️ Technologies and Tools I use:</h2>
