@@ -7,7 +7,7 @@
 
   🎓 I'm graduated in Real Estate Business Technology
     
-   🚀 I’m currently studying on Trybe
+   🚀 I’m currently studying at Trybe
 
    📝 I’m currently learning about HTML, CSS and JavaScript.
     
