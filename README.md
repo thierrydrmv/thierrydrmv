@@ -9,7 +9,7 @@
     
    🚀 I’m currently studying at Trybe
 
-   📝 I’m currently learning about HTML, CSS and JavaScript.
+   📝 I’m currently learning about HTML, CSS, JavaScript and ReactJS.
     
    💡 Curiosity: I like reading, sports and gaming
    
