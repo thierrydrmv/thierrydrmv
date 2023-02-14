@@ -9,7 +9,7 @@
     
    🚀 I’m currently studying at Trybe
 
-   📝 I’m currently learning ReactJS, Docker🐋 and MySQL
+   📝 I’m currently learning ReactJS, Typescript, Docker🐋 and MySQL
     
    💡 Curiosity: I like reading, sports and gaming
    
