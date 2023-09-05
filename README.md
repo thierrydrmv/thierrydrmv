@@ -11,7 +11,7 @@
 
    📝 I’m currently learning Java ☕
     
-   💡 Curiosity: I like reading, sports and gaming
+   💡 I like reading, listening to music and playing sports🎧
    
    💬 You can always ask me about Business, RPG or Cthulhu🐙
 
