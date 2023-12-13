@@ -39,5 +39,7 @@
 <div align="center">
   <a href = "https://wa.me/41999240022"><img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" target="_blank"></a>
   <a href = "mailto:varelathierry@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+  <a href = "https://my-portfolio-bay-gamma.vercel.app/"><img src="https://img.shields.io/badge/website-000000?style=for-the-badge&logo=About.me&logoColor=white" target="_blank"></a>
+  <a href = "https://gitconnected.com/thierrydrmv/resume"><img src="https://img.shields.io/badge/resume-000?style=for-the-badge&logo=stylelint&logoColor=white" target="_blank"></a>
   <a href="https://www.linkedin.com/in/varela-thierry" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white"
 </div>
