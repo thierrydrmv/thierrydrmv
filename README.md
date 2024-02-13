@@ -7,9 +7,9 @@
 
   🎓 I'm graduated in Real Estate Business Technology
     
-   🚀 I’m currently studying at Trybe
+   🏢 I’m currently working at GSO medicina ocupacional
 
-   📝 I’m currently learning Java ☕
+   🚀 I’m currently learning .NET and entity
     
    💡 I like reading, playing sports and listening to music🎧 
    
