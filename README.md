@@ -7,7 +7,7 @@
 
   🎓 I'm graduated in Real Estate Business Technology
     
-   🏢 I’m currently working at GSO medicina ocupacional
+   🏢 I’m currently working at SGI Software
 
    🚀 I’m currently learning .NET and entity
     
