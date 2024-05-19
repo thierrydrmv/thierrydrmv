@@ -9,7 +9,7 @@
     
    🏢 I’m currently working at SGI Software
 
-   🚀 I’m currently learning .NET and entity
+   🚀 I’m currently learning .NET, Entity Framework and Alpine.js
     
    💡 I like reading, playing sports and listening to music🎧 
    
