@@ -7,7 +7,7 @@
 
   🎓 I'm graduated in Real Estate Business Technology
     
-   🏢 I’m currently working at SGI Software
+   🏢 I’m currently working as a freelance developer
 
    🚀 I’m currently learning .NET, Entity Framework and Alpine.js
     
