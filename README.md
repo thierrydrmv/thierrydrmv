@@ -9,9 +9,9 @@
     
    🏢 I’m currently working as a freelance developer
 
-   🚀 I’m currently learning .NET, Entity Framework and Alpine.js
+   🚀 I’m currently learning Python, Django and Pandas
     
-   💡 I like reading, playing sports and listening to music🎧 
+   💡 I like reading, climbing and listening to music🎧 
    
    💬 You can always ask me about Business, RPG or Cthulhu🐙
 
