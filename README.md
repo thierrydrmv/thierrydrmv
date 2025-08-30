@@ -5,15 +5,17 @@
   <h2>😀 About Me:</h2>
     <br>
 
-  🎓 I'm graduated in Real Estate Business Technology
-    
-   🏢 I’m currently working as a freelance developer
+  🎓 Graduated in Real Estate Business Technology
 
-   🚀 I’m currently learning Python, Django and Pandas
-    
-   💡 I like reading, climbing and listening to music🎧 
-   
-   💬 You can always ask me about Business, RPG or Cthulhu🐙
+  📚 Currently pursuing a Bachelor’s degree in Software Engineering at Estácio
+  
+  🏢 Working as a Freelance Developer
+
+  🚀 Learning Python, Django, and Pandas
+  
+  💡 Passionate about reading, climbing, and music 🎧
+
+  💬 Always open to talk about Business, RPG, or Cthulhu 🐙
 
 <br>
 <br>
@@ -22,7 +24,7 @@
 
 <div align="center">
 
-  [![My Skills](https://skillicons.dev/icons?i=html,css,js,ts,alpinejs,python,java,cs,dotnet,react,redux,nodejs,spring,express,docker,mysql,mongodb,jest,git,vscode,idea,linux)](https://skillicons.dev)
+  [![My Skills](https://skillicons.dev/icons?i=html,css,js,ts,python,alpinejs,cs,dotnet,react,redux,nodejs,express,java,spring,docker,postgres,mongodb)](https://skillicons.dev)
     <br>
   
 </div> 
