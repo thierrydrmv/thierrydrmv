@@ -6,12 +6,10 @@
     <br>
 
   🎓 Graduated in Real Estate Business Technology
-
-  📚 Currently pursuing a Bachelor’s degree in Software Engineering at Estácio
   
   🏢 Working as a Freelance Developer
 
-  🚀 Learning Python, Django, and Pandas
+  🚀 Learning Python, Snowflake, and Airflow
   
   💡 Passionate about reading, climbing, and music 🎧
 
