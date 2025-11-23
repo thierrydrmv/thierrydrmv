@@ -11,7 +11,7 @@
 
   🚀 Focused on Data Engineering: Python, Snowflake, dbt, Airflow
   
-  📚 Enthusiast of reading, climbing, and music 🎧
+  📚 Passionate about reading, climbing, and music 🎧
 
   💬 Open to discussions about business, data, RPG, and Cthulhu
 
