@@ -13,7 +13,7 @@
   
   📚 Enthusiast of reading, climbing, and music 🎧
 
-  💬 Open to discussions about business, data, RPG, and Cthulhu 🐙
+  💬 Open to discussions about business, data, RPG, and Cthulhu
 
 <br>
 <h2 align="center">🛠️ Technologies and Tools I use:</h2>
