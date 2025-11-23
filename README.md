@@ -16,6 +16,7 @@
   💬 Open to discussions about business, data, RPG, and Cthulhu
 
 <br>
+<br>
 <h2 align="center">🛠️ Technologies and Tools I use:</h2>
 <br>
 
