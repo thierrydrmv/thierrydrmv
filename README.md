@@ -5,15 +5,15 @@
   <h2>😀 About Me:</h2>
     <br>
 
-  🎓 Background in Real Estate Business Technology
+  🎓 Graduated in Real Estate Business Technology
   
-  🏢 Freelance Software Developer
+  🏢 Working as a Freelance Developer
 
-  🚀 Focused on Data Engineering: Python, Snowflake, dbt, Airflow
+  🚀 Learning Python, Snowflake, and Airflow
   
-  📚 Passionate about reading, climbing, and music 🎧
+  💡 Passionate about reading, climbing, and music 🎧
 
-  💬 Open to discussions about business, data, RPG, and Cthulhu
+  💬 Always open to talk about Business, RPG, or Cthulhu 🐙
 
 <br>
 <br>
@@ -21,10 +21,19 @@
 <br>
 
 <div align="center">
-  
-  ![My Skills](https://go-skill-icons.vercel.app/api/icons?i=python,snowflake,dbtlabs,airflow,postgres,sqlserver,mongodb,docker)
+
+  [![My Skills](https://skillicons.dev/icons?i=python,alpinejs,cs,dotnet,react,redux,ts,nodejs,express,nestjs,java,spring,docker,postgres,mongodb)](https://skillicons.dev)
     <br>
+  
 </div> 
+<br>
+
+<div align="center">
+  <a href="https://github.com/thierrydrmv">
+  <img height="160px" src="https://github-readme-stats-eight-theta.vercel.app/api?username=thierrydrmv&show_icons=true&theme=highcontrast">
+  <img height="160px" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=thierrydrmv&layout=compact&theme=highcontrast">
+</div>
+
 <br>
 
 <div align="center">
