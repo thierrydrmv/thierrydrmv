@@ -3,7 +3,7 @@
 </h1>
 
 <h3 align="center">Python Backend Developer specialized in Django</h3>
-<p align="center">I build reliable web applications and REST APIs using Python, Django, Django REST Framework, and PostgreSQL.</p>
+<p align="center">I build reliable web applications, REST APIs, and business-oriented systems.</p>
 <br>
 
 ## 👨‍💻 About Me
@@ -38,7 +38,7 @@ Previous experience: C#, ASP.NET MVC, Entity Framework
 
 ## 📫 Let's Connect
 
-I'm open to opportunities involving Python, Django, backend development, and workflow automation.
+I'm open to backend development and workflow automation opportunities.
 
 ---
 
