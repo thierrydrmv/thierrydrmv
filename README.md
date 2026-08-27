@@ -6,8 +6,6 @@
 <p align="center">I build reliable web applications and REST APIs using Python, Django, Django REST Framework, and PostgreSQL.</p>
 <br>
 
-<img align="right" width="420px" src="https://user-images.githubusercontent.com/63623847/184710686-f6ab32a6-f668-4916-bb67-9e8514df993f.gif">
-
 ## 👨‍💻 About Me
 
 🚀 Building web applications and REST APIs with Django REST Framework
